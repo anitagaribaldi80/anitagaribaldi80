@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ana Lessa! 🤗
-- 👀 I’m interested in Computers 💻, movies, specially horror ones🎈and cartoons🎬, , my favorite holiday is Halloween🎃,I'm a big fan of burgers too🍔!
-- 🌱 I’m currently learning System Analysis and Development, I'm also studying Python, SQL and Java languages. 
-- 📫 How to reach me ...
+- 👋 Oi, sou a Ana Lessa! 🤗
+- 👀 Tenho interesse em computadores 💻, filmes, principalmente de terror🎈, e desenhos animados, meu feriado favorito é o  Halloween🎃, também sou fã de um bom hamburger🍔!
+- 🌱Estou cursando ADS, e também estudando Python, SQL e Java. 
+- 📫 Como falar comigo ...
 <div> 
    <a href="https://instagram.com/sushiesalsicha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aninhalessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
